@@ -4,6 +4,8 @@ ReleaseSeal is a permissionless GenLayer dApp that binds an exact GitHub source 
 
 Active StudioNet deployment: [`0x6c91f4dcEC44607c97d35D0D5a74364b04d66232`](https://explorer-studio.genlayer.com/address/0x6c91f4dcEC44607c97d35D0D5a74364b04d66232).
 
+Live frontend: [release-seal.pages.dev](https://release-seal.pages.dev/).
+
 The deployer has no runtime authority. There are no constructor arguments, wallet allowlists or admin methods. Any reviewer can register, inspect and activate a distinct valid release with their own wallet.
 
 ## Proof boundary
