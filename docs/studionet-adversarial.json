@@ -1,0 +1,133 @@
+{
+  "contract": "0x6c91f4dcEC44607c97d35D0D5a74364b04d66232",
+  "wallets": {
+    "a": "0xFeD97e2aE1A8C1983b7cA206B3545e6A2c685E43",
+    "b": "0xc67532aeF9D2879cBA9375a02E6217A3524657B8"
+  },
+  "setup": {
+    "register": {
+      "hash": "0xc57d042039e4ae6c5c72434bfd8cdae9c461427bfec5afc79083e71755269075",
+      "url": "https://explorer-studio.genlayer.com/tx/0xc57d042039e4ae6c5c72434bfd8cdae9c461427bfec5afc79083e71755269075",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "reason": {
+        "raw": [
+          49
+        ],
+        "readable": "6"
+      }
+    },
+    "inspect": {
+      "hash": "0x47b56f413b3e5f5d4a7676f2acf4196b3d798c9c9b63ad8b742f9341754dd5f0",
+      "url": "https://explorer-studio.genlayer.com/tx/0x47b56f413b3e5f5d4a7676f2acf4196b3d798c9c9b63ad8b742f9341754dd5f0",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "SUCCESS",
+      "reason": {
+        "raw": [
+          0
+        ],
+        "readable": "null"
+      }
+    },
+    "release": {
+      "activation_digest": "",
+      "artifact_integrity": "sha512-/KJwQ+GX0l85ZVKB6L+vEkArBYqQTC2rP4lwD7pddP73aUmP8+K8hou1oizhIPbk6rV4F9J/K/u5NfOwFCpygQ==",
+      "attempts": 1,
+      "base_commit": "9f0a3d81221e3ab7c09ca4911ef35b54817869a4",
+      "creator": "0xFeD97e2aE1A8C1983b7cA206B3545e6A2c685E43",
+      "evidence_digest": "a835bc9e28d6a4ae25dcddd510a47767585f95b99c9216c44bc3cb93d841c356",
+      "head_commit": "f300476db2942180206a08af2f093534adfbdffa",
+      "id": 6,
+      "owner": "colinhacks",
+      "package_name": "zod",
+      "package_version": "4.5.0-canary.20260817T183748",
+      "production_prefix": "packages/zod/src/v4/core/",
+      "reason": "SOURCE_CI_ARTIFACT_ALIGNED",
+      "repository": "zod",
+      "state": "RELEASABLE",
+      "test_prefix": "packages/zod/src/v4/classic/tests/"
+    }
+  },
+  "wrong_integrity": {
+    "transaction": {
+      "hash": "0xbf2c88c79e56f1ac623b96daba536aacea51b07cb6f412abaec570017d6d31a3",
+      "url": "https://explorer-studio.genlayer.com/tx/0xbf2c88c79e56f1ac623b96daba536aacea51b07cb6f412abaec570017d6d31a3",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "ERROR",
+      "reason": "ARTIFACT_INTEGRITY_MISMATCH"
+    },
+    "pre": {
+      "activation_digest": "",
+      "artifact_integrity": "sha512-/KJwQ+GX0l85ZVKB6L+vEkArBYqQTC2rP4lwD7pddP73aUmP8+K8hou1oizhIPbk6rV4F9J/K/u5NfOwFCpygQ==",
+      "attempts": 1,
+      "base_commit": "9f0a3d81221e3ab7c09ca4911ef35b54817869a4",
+      "creator": "0xFeD97e2aE1A8C1983b7cA206B3545e6A2c685E43",
+      "evidence_digest": "a835bc9e28d6a4ae25dcddd510a47767585f95b99c9216c44bc3cb93d841c356",
+      "head_commit": "f300476db2942180206a08af2f093534adfbdffa",
+      "id": 6,
+      "owner": "colinhacks",
+      "package_name": "zod",
+      "package_version": "4.5.0-canary.20260817T183748",
+      "production_prefix": "packages/zod/src/v4/core/",
+      "reason": "SOURCE_CI_ARTIFACT_ALIGNED",
+      "repository": "zod",
+      "state": "RELEASABLE",
+      "test_prefix": "packages/zod/src/v4/classic/tests/"
+    },
+    "post": {
+      "activation_digest": "",
+      "artifact_integrity": "sha512-/KJwQ+GX0l85ZVKB6L+vEkArBYqQTC2rP4lwD7pddP73aUmP8+K8hou1oizhIPbk6rV4F9J/K/u5NfOwFCpygQ==",
+      "attempts": 1,
+      "base_commit": "9f0a3d81221e3ab7c09ca4911ef35b54817869a4",
+      "creator": "0xFeD97e2aE1A8C1983b7cA206B3545e6A2c685E43",
+      "evidence_digest": "a835bc9e28d6a4ae25dcddd510a47767585f95b99c9216c44bc3cb93d841c356",
+      "head_commit": "f300476db2942180206a08af2f093534adfbdffa",
+      "id": 6,
+      "owner": "colinhacks",
+      "package_name": "zod",
+      "package_version": "4.5.0-canary.20260817T183748",
+      "production_prefix": "packages/zod/src/v4/core/",
+      "reason": "SOURCE_CI_ARTIFACT_ALIGNED",
+      "repository": "zod",
+      "state": "RELEASABLE",
+      "test_prefix": "packages/zod/src/v4/classic/tests/"
+    }
+  },
+  "malformed_head": {
+    "transaction": {
+      "hash": "0x56c08ae8ebd0a6584a9b076cc4a9c70b3d6b990f7b59c2452862d01a04d2bff7",
+      "url": "https://explorer-studio.genlayer.com/tx/0x56c08ae8ebd0a6584a9b076cc4a9c70b3d6b990f7b59c2452862d01a04d2bff7",
+      "status": "FINALIZED",
+      "consensus": "MAJORITY_AGREE",
+      "execution": "ERROR",
+      "reason": "INVALID_HEAD_COMMIT"
+    },
+    "pre_config": {
+      "architecture": "REVISION_BOUND_MULTI_SOURCE_ACTIVATION_GATE",
+      "github_api": "https://api.github.com",
+      "max_attempts": 3,
+      "npm_registry": "https://registry.npmjs.org",
+      "release_count": 6,
+      "version": "RELEASE_SEAL_V1"
+    },
+    "post_config": {
+      "architecture": "REVISION_BOUND_MULTI_SOURCE_ACTIVATION_GATE",
+      "github_api": "https://api.github.com",
+      "max_attempts": 3,
+      "npm_registry": "https://registry.npmjs.org",
+      "release_count": 6,
+      "version": "RELEASE_SEAL_V1"
+    }
+  },
+  "initial_config": {
+    "architecture": "REVISION_BOUND_MULTI_SOURCE_ACTIVATION_GATE",
+    "github_api": "https://api.github.com",
+    "max_attempts": 3,
+    "npm_registry": "https://registry.npmjs.org",
+    "release_count": 5,
+    "version": "RELEASE_SEAL_V1"
+  }
+}
